@@ -1,0 +1,8 @@
+streamlit>=1.52.0
+validators>=0.35.0
+langchain-openai>=1.1.0
+langchain-community>=0.4.0
+pydantic>=2.12.0
+requests>=2.32.0
+beautifulsoup4>=4.14.0
+youtube-transcript-api>=1.2.0
